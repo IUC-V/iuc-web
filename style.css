@@ -1,0 +1,25 @@
+#nav-bar{
+    width:100%;
+    top:0px;
+    left:0px;
+    background-color:transparent;
+}
+ul{
+    display:flex;
+    align-content:center;
+    justify-content:center;
+}
+
+ul li{
+    list-style: none;
+}
+
+ul li a{
+  text-transform:uppercase;
+  letter-spacing:1px;
+  padding:1em;
+}
+.a{
+  background:url(/Coronavirus-1.jpg)no-repeat center center;
+  position:relative;
+}
